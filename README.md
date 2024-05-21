@@ -1,6 +1,6 @@
 # Java Chess Project
 
-# Disclaimer : This project was developed for Texas State University Object Oriented Programming and Design Course [CS3354]
+# Disclaimer : This project was developed for Texas State University Object Oriented Programming and Design Course [CS3354]; This is a personal port from the original repository on the git.txstate.edu enterprise github.
 
 ## Contributors
 - Tharp, Brandon
